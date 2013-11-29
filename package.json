@@ -1,0 +1,19 @@
+{
+  "name": "node-tilt-server",
+  "version": "0.0.0",
+  "description": "node-tilt-server",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "~0.4.31"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/innoying/node-tilt-server.git"
+  },
+  "author": "Luke Young <luke@hydrantlabs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/innoying/node-tilt-server/issues"
+  }
+}
